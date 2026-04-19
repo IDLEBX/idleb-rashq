@@ -7,7 +7,7 @@
   [![Version](https://img.shields.io/badge/version-2.0.0-red.svg)](https://github.com/yourusername/idlex)
   [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
   [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
-  [![Telegram](https://img.shields.io/badge/Telegram-@a_73a3-blue.svg)](https://t.me/a_73a3)
+  [![Telegram](https://img.shields.io/badge/Telegram-@IDLEBX-blue.svg)](https://t.me/idlebx2)
   
   <p align="center">
     <b>أداة احترافية لزيادة التفاعل على وسائل التواصل الاجتماعي</b><br>
